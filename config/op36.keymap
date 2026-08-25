@@ -101,7 +101,7 @@
             bindings = <
   &kp LS(BACKSLASH)  &kp RA(GRAVE)    &kp N7                 &kp NUMBER_1            &kp SEMI                              &kp PLUS   &kp NUMBER_1         &kp NUMBER_2         &kp NUMBER_3        &none
   &hml LGUI BSLH     &hml LALT GRAVE  &hml LSHFT LEFT_BRACE  &hml LCTRL RIGHT_BRACE  &kp NUMBER_2                          &kp MINUS  &hmr RCTRL NUMBER_4  &hmr RSHFT NUMBER_5  &hmr LALT NUMBER_6  &hmr RGUI N0
-  &kp RA(BACKSLASH)  &kp LS(GRAVE)    &kp COLON              &kp FSLH                &kp UNDERSCORE                        &kp EQUAL  &kp NUMBER_7         &kp N8               &kp N9              &none
+  &kp RA(BACKSLASH)  &kp LS(GRAVE)    &kp LS(LEFT_BRACE)     &kp LS(RIGHT_BRACE)     &kp UNDERSCORE                        &kp EQUAL  &kp NUMBER_7         &kp N8               &kp N9              &none
                                                              &kp CAPSLOCK            &trans          &kp DELETE    &trans  &trans     &trans
             >;
 
