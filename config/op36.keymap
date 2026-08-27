@@ -110,7 +110,7 @@
 
         nav {
             bindings = <
-  &kp LC(Q)            &kp LC(W)            &kp LC(E)              &kp LC(E)                &kp LC(T)                    &kp HOME        &kp PAGE_DOWN          &kp PAGE_UP          &kp END                &kp PRINTSCREEN
+  &kp LC(Q)            &kp LC(W)            &kp LC(E)              &kp LC(R)                &kp LC(T)                    &kp HOME        &kp PAGE_DOWN          &kp PAGE_UP          &kp END                &kp PRINTSCREEN
   &hml LEFT_GUI LC(A)  &hml LEFT_ALT LC(S)  &hml LEFT_SHIFT LC(D)  &hml LEFT_CONTROL LC(F)  &kp LC(G)                    &kp LEFT_ARROW  &hmr RCTRL DOWN_ARROW  &hmr RSHFT UP_ARROW  &hmr LALT RIGHT_ARROW  &hmr RIGHT_GUI RIGHT_GUI
   &kp LC(Z)            &kp LC(X)            &kp LC(C)              &kp LC(V)                &kp LC(B)                    &none           &none                  &none                &none                  &none
                                                                    &trans                   &trans     &trans    &trans  &trans          &trans
